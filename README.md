@@ -1,1 +1,1 @@
-# Arabic-Sentiment-Analysis-using-CNN_BiLSTM(Fusion)
+# Arabic Sentiment Analysis and Text Classification (Using Fusion CNN_BiLSTM)
